@@ -83,4 +83,3 @@ for (var i=0; i<highScores.length; i++){
   console.log(currentHighScorer.userHighScore);
 }
 
-// console.log("Check out the Highest Scorer: ",highScores.Onkar)
