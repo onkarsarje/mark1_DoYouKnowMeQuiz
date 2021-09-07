@@ -44,28 +44,25 @@ var questions=[{
   question: "3] Where do I work? ",
   answer: "Jio"
 },{
-  question: "Which Book am I currently reading? ",
+  question: "4] Which Book am I currently reading? ",
   answer: "Black Swan"
 },{
-  question: "Which vehicle did I drive to college on? ",
-  answer: "Activa"
-},{
-   question: "What is my Age? ",
+   question: "5] What is my Age? ",
   answer: "21"
 },{
-   question: "Which School did I go to?  ",
+   question: "6] Which School did I go to?  ",
   answer: "IMS"
 },{
-   question: "Which Junior College did I go to? ",
+   question: "7] Which Junior College did I go to? ",
   answer: "Walchand"
 },{
-   question: "Which College did go to for Graduation? ",
+   question: "8] Which College did go to for Graduation? ",
   answer: "Modern"
 },{
-   question: "What was my major in college? ",
+   question: "9] What was my major in college? ",
   answer: "computer"
 },{
-   question: "Which city was my College in? ",
+   question: "10] Which city was my College in? ",
   answer: "pune"
 }]
 
