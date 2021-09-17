@@ -41,8 +41,8 @@ var questions=[{
   question: "2] My favourite superhero would be? ",
   answer: "Wolverine"
 },{
-  question: "3] Where do I work? ",
-  answer: "Jio"
+  question: "3] Which Martial Art did I practice in school? ",
+  answer: "Karate"
 },{
   question: "4] Which Book am I currently reading? ",
   answer: "Black Swan"
